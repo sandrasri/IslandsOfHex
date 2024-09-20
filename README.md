@@ -4,4 +4,4 @@ This project is based on the game Islands of Hex, a two-player game in which eac
 
 The project features a graphical user interface (GUI) that allows two players, white and black, to place hexagon tiles on the board. The game ends when either player creates a continuous chain from left to right or from top to bottom. In either case, the player with the most islands wins the game. 
 
-![IslandsOfHex](https://github.com/user-attachments/assets/1ec466f8-f937-4654-9f40-63dbffc9fac6)
+![IslandsOfHex](https://github.com/user-attachments/assets/bb4889e0-37f0-45ce-8a09-1c194e36c75c)
